@@ -1,1 +1,8 @@
-# growChain
+![image1](https://github.com/user-attachments/assets/22be0da1-8bca-44c4-b99e-e2b9bc077c87)
+![image2](https://github.com/user-attachments/assets/993e0c11-0bc5-4664-b569-994af14ffc2a)
+![image3](https://github.com/user-attachments/assets/62be6216-acbd-49f1-a014-25f005a84b54)
+![image4](https://github.com/user-attachments/assets/f967ddaf-688b-4adb-b176-527f16dda7c0)
+![image5](https://github.com/user-attachments/assets/7b85c827-a113-4a6e-a517-624c9a947ebb)
+![image6](https://github.com/user-attachments/assets/2c4755ef-898d-4771-b1f9-a60d1f0beb6a)
+![image7](https://github.com/user-attachments/assets/8af6e1ef-23e8-4bdb-9143-d331d0541b68)
+![image8](https://github.com/user-attachments/assets/dac64e79-7301-4d82-8f53-15db9e340137)
