@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* General Styling for Form Container */
+.farmer-form-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Header Styling */
+.farmer-form-header {
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+  color: #38a169; /* Green */
+  margin-bottom: 1.5rem;
+}
+
+/* Form Fields Container */
+.farmer-form-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* Input Fields */
+.register-input{
+  padding: 1rem;
+  border: 1px solid #d1d5db; /* Light gray */
+  border-radius: 8px;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.register-input{
+  border-color: #38a169; /* Green */
+  box-shadow: 0 0 0 2px rgba(56, 161, 105, 0.3); /* Light green shadow */
+}
+
+/* Crops Section */
+.crops-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.crop-inputs {
+  display: flex;
+  gap: 1rem;
+}
+
+.crop-inputs input {
+  flex: 1;
+}
+
+.add-crop-button {
+  background-color: #38a169;
+  color: white;
+  padding: 0.75rem;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: center;
+  width: 100%;
+}
+
+.add-crop-button:hover {
+  background-color: #2f855a; /* Darker green on hover */
+}
+
+/* Submit Button */
+.submit-button {
+  background-color: #38a169;
+  color: white;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  width: 100%;
+}
+
+.submit-button:hover {
+  background-color: #2f855a; /* Darker green on hover */
+}
+
+.submit-button:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(56, 161, 105, 0.3); /* Focus effect */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .farmer-form-container {
+    padding: 1rem;
+  }
+
+  .crop-inputs {
+    flex-direction: column;
+  }
+
+  .add-crop-button {
+    width: auto;
+  }
+
+  .submit-button {
+    width: auto;
+  }
+}
+
+.doughnutPie {
+  width: 190px !important;
+  height: 190px !important;
+}
+
+.w-full-custom{
+    /* width: 100%  !important; */
+}
